@@ -14,6 +14,9 @@ html, body {
 .zc-ref {
   display:none;
 }
+.wrapper {
+  background: pink;
+}
 body {
   background-image: url("http://i.imgur.com/M4TjOBA.jpg");
 }
