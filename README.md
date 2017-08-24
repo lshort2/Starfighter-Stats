@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Starfighter Stats!
+### Clear, concise graphs to show strengths of different ships.
 
 You can use the [editor on GitHub](https://github.com/lshort2/Starfighter-Stats/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
