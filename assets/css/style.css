@@ -15,7 +15,7 @@ html, body {
   display:none;
 }
 .wrapper {
-  background: pink;
+  background-color: pink;
 }
 body {
   background-image: url("http://i.imgur.com/M4TjOBA.jpg");
