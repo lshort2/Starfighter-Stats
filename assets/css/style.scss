@@ -23,5 +23,9 @@ body {
 }
 
 #xwing_chart {
-  min-height: 350px;
+  min-height: 380px;
+}
+.ship > img {
+  max-height: 200px;
+  max-width: 90%;
 }
