@@ -1,38 +1,12 @@
-## Starfighter Stats!
-### Clear, concise graphs to show strengths of different ships.
 
-You can use the [editor on GitHub](https://github.com/lshort2/Starfighter-Stats/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Note
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Starfighter-Stats is in no way associated with Walt Disney, Lucasarts, or any of their subsidiaries. 
+Information on this site is delivered free of charge, as is, without any further warranty.
+[ZingChart](https://jekyllrb.com/) used to construct radar graphs.
+Images sourced from [Wookiepedia](http://starwars.wikia.com/wiki/Main_Page) and rights belong to their respective authors.
+Information on this site is delivered free of charge, as is, without any warranty.
 
-### Markdown
+### Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lshort2/Starfighter-Stats/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Something missing. Need to contact me for other content creation? You can send me an email at [luke@lukeshort.tech](mailto:luke@lukeshort.tech) or find my GitHub profile [here](https://github.com/lshort2).
