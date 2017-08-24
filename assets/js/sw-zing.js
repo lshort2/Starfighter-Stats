@@ -1,4 +1,4 @@
-var myConfig = {
+var xwingConfig = {
   type : 'radar',
   plot : {
     aspect : 'area',
@@ -40,20 +40,16 @@ var myConfig = {
   },
   series : [
     {
-      values : [59, 39, 38, 19, 21],
-      text:'farm'
-    },
-    {
       values : [20, 20, 54, 41, 41],
-      lineColor : '#53a534',
-      backgroundColor : '#689F38'
+      lineColor : '#BE2436',
+      backgroundColor : '#F4495D'
     }
   ]
 };
 
 zingchart.render({ 
   id : 'xwing_chart', 
-  data : myConfig, 
+  data : xwingConfig, 
   height: '100%', 
   width: '100%' 
 });
