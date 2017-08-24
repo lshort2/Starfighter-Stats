@@ -8,8 +8,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
-    <!-- Custom js for ZingCharts -->
-    <script src="{{ '/assets/js/sw-zing.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -49,6 +47,8 @@
       </div>
 
     </div>
+    <!-- Custom js for ZingCharts, must not run until divs in the dom load -->
+    <script src="{{ '/assets/js/sw-zing.js' | relative_url }}"></script>
 
     {% if site.google_analytics %}
     <script type="text/javascript">
