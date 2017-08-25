@@ -25,12 +25,11 @@ body {
 .ship  {
   padding-bottom: 40px;
 }
-.ship-img {
-  margin: 0 auto;
-}
-.ship-image > img {
+.ship-img > img {
+  display: block;
   max-height: 200px;
   max-width: 90%;
+  margin: 0 auto;
 }
 #xwing_chart, #eta2_chart, #tie_chart, #n1_chart, #vulture_chart {
   min-height: 360px;
