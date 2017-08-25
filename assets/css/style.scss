@@ -25,7 +25,10 @@ body {
 .ship > img {
   max-height: 200px;
   max-width: 90%;
+  margin: 0 auto;
 }
 #xwing_chart, #eta2_chart, #tie_chart, #n1_chart, #vulture_chart {
-  min-height: 380px;
+  min-height: 360px;
+  max-width: 520px;
+  margin: 0 auto;
 }
