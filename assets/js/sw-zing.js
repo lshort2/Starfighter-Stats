@@ -16,7 +16,7 @@ var xwingConfig = {
     labels : ['Firepower','Speed','Hyperdrive','Cargo Capacity', 'Cost' ],
     item : {
       fontColor : '#607D8B',
-      //backgroundColor : "white",
+      backgroundColor : "white",
       borderColor : "#aeaeae",
       borderWidth : 1,
       padding : '5 10',
@@ -40,7 +40,7 @@ var xwingConfig = {
   },
   series : [
     {
-      values : [20, 20, 54, 41, 41],
+      values : [100, 70, 71, 100, 20],
       lineColor : '#BE2436',
       backgroundColor : '#F4495D'
     }
@@ -96,7 +96,7 @@ var etaConfig = {
   },
   series : [
     {
-      values : [20, 20, 54, 41, 41],
+      values : [90, 100, 35, 55, 8],
       lineColor : '#BE2436',
       backgroundColor : '#F4495D'
     }
@@ -152,7 +152,7 @@ var tieConfig = {
   },
   series : [
     {
-      values : [20, 20, 54, 41, 41],
+      values : [60, 80, 0, 60, 82],
       lineColor : '#BE2436',
       backgroundColor : '#F4495D'
     }
@@ -208,7 +208,7 @@ var nabooConfig = {
   },
   series : [
     {
-      values : [20, 20, 54, 41, 41],
+      values : [40, 73, 100, 60, 12],
       lineColor : '#BE2436',
       backgroundColor : '#F4495D'
     }
@@ -264,7 +264,7 @@ var vultureConfig = {
   },
   series : [
     {
-      values : [20, 20, 54, 41, 41],
+      values : [42, 80, 0, 0, 100],
       lineColor : '#BE2436',
       backgroundColor : '#F4495D'
     }
@@ -277,19 +277,4 @@ zingchart.render({
   height: '100%', 
   width: '100%' 
 });
-
-zingchart.render(
-{ 
-  id : 'xwing_chart', 
-  data : xwingConfig, 
-  height: '100%', 
-  width: '100%' 
-}, 
-{ 
-  id : 'vulture_chart', 
-  data : vultureConfig, 
-  height: '100%', 
-  width: '100%' 
-}
-);
 
