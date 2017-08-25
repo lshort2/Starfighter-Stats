@@ -22,10 +22,10 @@ body {
   background-image: url("https://i.imgur.com/M4TjOBA.jpg");
 }
 
-#xwing_chart {
-  min-height: 380px;
-}
 .ship > img {
   max-height: 200px;
   max-width: 90%;
+}
+#xwing_chart, #eta2_chart, #tie_chart, #n1_chart, #vulture_chart {
+  min-height: 380px;
 }
