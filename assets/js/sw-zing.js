@@ -16,7 +16,7 @@ var xwingConfig = {
     labels : ['Firepower','Speed','Hyperdrive','Cargo Capacity', 'Cost' ],
     item : {
       fontColor : '#607D8B',
-      backgroundColor : "white",
+      //backgroundColor : "white",
       borderColor : "#aeaeae",
       borderWidth : 1,
       padding : '5 10',
@@ -277,4 +277,19 @@ zingchart.render({
   height: '100%', 
   width: '100%' 
 });
+
+zingchart.render(
+{ 
+  id : 'xwing_chart', 
+  data : xwingConfig, 
+  height: '100%', 
+  width: '100%' 
+}, 
+{ 
+  id : 'vulture_chart', 
+  data : vultureConfig, 
+  height: '100%', 
+  width: '100%' 
+}
+);
 
