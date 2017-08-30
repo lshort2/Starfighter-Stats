@@ -2,7 +2,6 @@
 ### Note
 
 - Starfighter-Stats is in no way associated with Walt Disney, Lucasarts, or any of their subsidiaries. 
-- Information on this site is delivered free of charge, as is, without any further warranty.
 - [ZingChart](https://www.zingchart.com/) used to construct radar graphs.
 - Images sourced from [Wookiepedia](http://starwars.wikia.com/wiki/Main_Page) and rights belong to their respective authors.
 - Information on this site is delivered free of charge, as is, without any warranty.
